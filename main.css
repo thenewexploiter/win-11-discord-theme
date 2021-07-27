@@ -1,0 +1,25 @@
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css");
+:root {
+--transparencycolor: #000000ff;
+--transparencyalpha: 0;
+--messagetransparency: 0.75;
+--guildchanneltransparency: 0;
+--chatinputtransparency: 0;
+--memberlisttransparency: 0;
+--accentcolor: #be4eb433;
+--font: 'Whitney';
+--textshadow: #000000FF;
+--background: url('https://br.atsit.in/pl/wp-content/uploads/2021/06/mozesz-teraz-pobrac-tapety-systemu-windows-11-wyciek-przed-wydarzeniem-24-czerwca-15.jpg');
+--backgroundposition: center;
+--backgroundsize: contain;
+--backgroundblur: 3px;
+--version1_0_5: none;
+--popout: url('https://br.atsit.in/pl/wp-content/uploads/2021/06/mozesz-teraz-pobrac-tapety-systemu-windows-11-wyciek-przed-wydarzeniem-24-czerwca-15.jpg');
+--popoutposition: center;
+--popoutsize: cover;
+--popoutblur: 100px;
+--backdrop: #000000FF;
+--backdropposition: center;
+--backdropsize: cover;
+--backdropblur: 0px;
+}
