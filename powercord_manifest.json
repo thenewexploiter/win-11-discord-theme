@@ -1,0 +1,9 @@
+{
+    "name": "Windows 11 Discord Theme",
+    "description": "Discord but Windows 11 Wallpaper.",
+    "version": "1.0.0",
+    "author": "thenewexploiter",
+    "theme": "main.css",
+    "consent": "false",
+    "license": "MIT"
+}
